@@ -6,13 +6,13 @@
 
 在開始之前，請確保您已經完成以下步驟：
 
-1. 安裝 Node.js：確保您已經安裝了最新版本的 Node.js。您可以在 [Node.js 官方網站](https://nodejs.org/) 下載並安裝。
+1. 確保您已經安裝了最新版本的 Node.js。您可以在 [Node.js 官方網站](https://nodejs.org/) 下載並安裝。
 
-2. 運行 Control Point：將 Control Point 檔案夾中的內容在您希望作為 Control Point 的設備上運行（本專案使用 Arduino）。Control Point 應該與 Media Renderer 連結，請確保將程式碼內容修改為連接的 USB Port 號。
+2. 將 Control Point 檔案夾中的內容在您希望作為 Control Point 的設備上部署（本專案使用 Arduino）。Control Point 應該與 Media Renderer 連結，請確保將程式碼內容修改為連接的 USB Port 號。
 
-3. 運行 Media Renderer：將 Media Renderer 檔案夾中的內容在您希望作為 Media Renderer 的設備上運行（本專案使用 Raspberry Pi）。
+3. 將 Media Renderer 檔案夾中的內容在您希望作為 Media Renderer 的設備上部署 （本專案使用 Raspberry Pi）。
 
-4. 運行 Media Server：將 Media Server 檔案夾中的內容在您希望作為 Media Server 的設備上運行（本專案使用 Windows 10）。
+4. 將 Media Server 檔案夾中的內容在您希望作為 Media Server 的設備上部署 （本專案使用 Windows 10）。
 
 5. 在步驟 (2.)、(3.)、(4.) 的檔案中運行 `npm install`，以確保完整安裝相依套件。
 
