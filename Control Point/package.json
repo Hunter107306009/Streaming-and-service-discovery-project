@@ -1,0 +1,17 @@
+{
+  "name": "cp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "*",
+    "johnny-five": "*",
+    "socket.io": "*",
+    "axios":"*"
+  },
+  "license": "ISC"
+}
