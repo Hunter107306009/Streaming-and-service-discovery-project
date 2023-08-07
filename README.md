@@ -24,8 +24,8 @@
 
 3. 在 Media Server 檔案夾中運行 `node push_back_end.js`，開啟 Media Server。
 
-4. 在 Media Renderer 設備的瀏覽器中開啟 [http://127.0.0.1:3000/push_front_end.html](http://127.0.0.1:3000/push_front_end.html)。
+4. 在 Media Renderer 設備的瀏覽器中開啟 [http://127.0.0.1:3000/push_front_end.html](http://127.0.0.1:3000/push_front_end.html)。(推薦Edge/Chrome)
 
-5. 在 Media Server 設備的瀏覽器中開啟 [http://127.0.0.1:3030/view_front_end.html](http://127.0.0.1:3030/view_front_end.html)。
+5. 在 Media Server 設備的瀏覽器中開啟 [http://127.0.0.1:3030/view_front_end.html](http://127.0.0.1:3030/view_front_end.html)。(推薦Edge/Chrome)
 
 6. 觸發 Control Point，或利用 Media Server 的內建 UI 開啟影音串流。
